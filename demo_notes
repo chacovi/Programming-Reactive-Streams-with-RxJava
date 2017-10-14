@@ -1,0 +1,9 @@
+// make sure to have $ mvn clean package
+1. start services: ./run_all.sh sync
+2. show API: curl http://localhost:8080/mortgage?customerId=bob
+3. Warmup: ./bench-mortgage.sh 10000 and ./bench-account.sh 10000
+4. Load visualvm and slow both services via mxbeans
+5. Show slowdown: ./bench-mortgage.sh 100
+6. Remove slowdown from balance service
+7. Show threadpool exhaustion: ./bench-mortgage.sh 10000 and ./bench-account.sh 100
+
