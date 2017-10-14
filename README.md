@@ -1,8 +1,8 @@
 ## Example files for the title:  
 	  
-# Programming Reactive Streams with RxJava, by Richard Warburton
+# Programming Reactive Streams with RxJava, by Richard Warburton and Raoul-Gabriel Urma
 	  
-[![Programming Reactive Streams with RxJava, by Richard Warburton](http://akamaicovers.oreilly.com/images/9781491990278/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491990285//)
+[![Programming Reactive Streams with RxJava, by Richard Warburton and Raoul-Gabriel Urma](http://akamaicovers.oreilly.com/images/9781491990278/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491990285//)
 	  
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
 	  
